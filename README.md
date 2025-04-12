@@ -38,7 +38,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=asgharrizvi&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=asghar-rizvi&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asghar-rizvi&theme=dracula&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
