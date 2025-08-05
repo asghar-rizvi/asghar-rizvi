@@ -3,7 +3,7 @@
 
 ---
 
-- 📫 **How to reach me:** [asgharqamberrozvi@example.com](mailto:your.email@example.com)
+- 📫 **How to reach me:** [asgharqamberrozvi@gmail.com](mailto:asgharqamberrozvi@gmail.com)
 
 - 🌱 I am currently working with **Python** to develop real-world, production-level applications.  
 
